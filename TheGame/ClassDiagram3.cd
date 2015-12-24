@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerVehicle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAwAEAAABAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>PlayerVehicle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SentryGun" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAMAAEAAAICAAAAJAABAQABAggAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>SentryGun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheAIClass" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>TheAIClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheHeliClass" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAMAAAgQAIgAAABAAAASAAAAAAAAgAAAAAAgQAAAAA=</HashCode>
+      <FileName>TheHeliClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJetClass" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QUKsAAEcAEIiAABEQAAEqEEJSgoEAAEAgBEAlQQxGAI=</HashCode>
+      <FileName>TheJetClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMachineGunClass" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAQAAAAAAAAACBAAAAAAAAAABACAAAAAAAAA=</HashCode>
+      <FileName>TheMachineGunClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMainMenuClass" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASACwAAQQgAIEAEAABAAQwIAAAAAgHqCIQAwgEBICAA=</HashCode>
+      <FileName>TheMainMenuClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMissileClass" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAAAAAAAAgABAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>TheMissileClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheAITank" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aAEMAREgAgKCAQAARAABAYAIAmgAAAAAAAIAgAgACAA=</HashCode>
+      <FileName>TheAITank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheBulletClass" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQIAAAAAAAAABAAAAAAAAAAAACAEAAAAAAA=</HashCode>
+      <FileName>TheBulletClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheProjectileClass" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAQAgAIABgAAgBIAFAIAAAAAAgCQkgAAAAAA=</HashCode>
+      <FileName>TheProjectileClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTankClass" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAMAQAgAAIgAAAAAAAAAEAAAAAAAAAAAAAAgAAACAI=</HashCode>
+      <FileName>TheTankClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTruckClass" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>TheTruckClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheVehicleClass" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEIIAgEAQAAAgASEAAAAgEApAAgEAAAAAACAEQAQIQA=</HashCode>
+      <FileName>TheVehicleClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PlayerChoices" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAQQAAAAAAAAAAAAAAAAAAAAAgAAQAgAAAAAAA=</HashCode>
+      <FileName>TheFrontEnd.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TheHUD" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAIAEACAAAAQQACABAATgIAAAAAgBGABAAAEAA=</HashCode>
+      <FileName>TheVehicleClass.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="TheVehicleType" Collapsed="true">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TheVehicleClass.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
